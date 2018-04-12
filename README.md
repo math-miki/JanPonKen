@@ -7,7 +7,15 @@ we say "Pon", when show my hand.
 
 So, JanKen-Pon. i.e. JanPonKen.
 
-# the mini game inspired by Jan-Ken
+# the mini game(:JanPonKen) inspired by Jan-Ken
+
+is the JanKen fair?
+My answer is NO. completely probabilitic game is boring.
+
+If I can Win by using my brain, it is lucky.
+because, my task is only to know, to win.
+
+this JanKenPon requires you to know itself to win.
 
 You have nine cards.
 upper on the card, printed ✊ or ✌️ or 🖐.
