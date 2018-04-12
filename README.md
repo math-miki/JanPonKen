@@ -15,6 +15,4 @@ lower on the card, printed 1 or 2 or 3.
 You cannot have same card.
 
 so, you have...
-1, 2, and 3 of ✊
-1, 2, and 3 of ✌️
-1, 2, and 3 of 🖐
+1, 2, and 3 of ✊, 1, 2, and 3 of ✌️, 1, 2, and 3 of 🖐
